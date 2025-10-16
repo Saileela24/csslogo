@@ -1,0 +1,27 @@
+header {
+    background-color: rgb(4, 4, 4);
+    height: 100px;
+    display: flex;
+   
+}
+
+ul {
+    padding: 40px 30px;
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    color: aliceblue;
+    padding-left: 40px ;
+    list-style-type: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 300;
+}
+
+body {
+    margin: 0;
+}
+.logo-ls{
+padding-left: 20px;
+}
